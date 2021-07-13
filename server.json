@@ -1,6 +1,6 @@
 {
 	"LogLevel": "debug",
-	"LogPath": "./log/",
+	"LogPath": "./log",
 	"TCPAddr": "127.0.0.1:20001",
 	"WSAddr": "127.0.0.1:20002",
 	"HttpServerUrl": "127.0.0.1:20003",
